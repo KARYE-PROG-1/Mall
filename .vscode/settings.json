@@ -17,5 +17,10 @@
     "explorer.compactFolders": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "files.autoSave": "afterDelay",
-    "csharp.suppressBuildAssetsNotification": true
+    "csharp.suppressBuildAssetsNotification": true,
+    "chronicler.recording-defaults": {
+        "flags": null,
+        "fps": 2,
+        "countdown": 0
+    }
 }
