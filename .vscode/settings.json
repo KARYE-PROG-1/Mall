@@ -1,4 +1,5 @@
 {
+    "workbench.iconTheme": "vscode-great-icons",
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor",
     },
@@ -11,5 +12,10 @@
         "activityBar.background": "#3B1D61",
         "titleBar.activeBackground": "#532888",
         "titleBar.activeForeground": "#FBF9FD"
-    }
+    },
+    "editor.codeLens": false,
+    "explorer.compactFolders": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.autoSave": "afterDelay",
+    "csharp.suppressBuildAssetsNotification": true
 }
