@@ -4,11 +4,6 @@
         "*.md": "vscode.markdown.preview.editor",
     },
     "workbench.colorCustomizations": {
-        "[Sublime Monokai]": {
-            "editor.selectionHighlightBackground": "#ff000054",
-            "editor.background": "#2b2b2b",
-            "tab.inactiveForeground": "#888888"
-        },
         "activityBar.background": "#3B1D61",
         "titleBar.activeBackground": "#532888",
         "titleBar.activeForeground": "#FBF9FD"
@@ -17,10 +12,16 @@
     "explorer.compactFolders": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "files.autoSave": "afterDelay",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
     "csharp.suppressBuildAssetsNotification": true,
-    "chronicler.recording-defaults": {
-        "flags": null,
-        "fps": 2,
-        "countdown": 0
-    }
+    "git.postCommitCommand": "sync",
+    "csharp2plantuml.allInOne": true,
+    "csharp2plantuml.createAssociation": false,
+    "csharp2plantuml.public": false,
+    "plantuml.urlFormat": "png",
+    "plantuml.exportFormat": "png",
+    "plantuml.exportOutDir": ".",
+    "plantuml.render": "PlantUMLServer",
+    "plantuml.server": "https://www.plantuml.com/plantuml",
 }
