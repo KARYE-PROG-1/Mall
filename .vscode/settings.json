@@ -16,12 +16,4 @@
     "editor.guides.bracketPairs": "active",
     "csharp.suppressBuildAssetsNotification": true,
     "git.postCommitCommand": "sync",
-    "csharp2plantuml.allInOne": true,
-    "csharp2plantuml.createAssociation": false,
-    "csharp2plantuml.public": false,
-    "plantuml.urlFormat": "png",
-    "plantuml.exportFormat": "png",
-    "plantuml.exportOutDir": ".",
-    "plantuml.render": "PlantUMLServer",
-    "plantuml.server": "https://www.plantuml.com/plantuml",
 }
