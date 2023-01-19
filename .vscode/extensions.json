@@ -1,10 +1,13 @@
 {
     "recommendations": [
-        "chrisdias.vscode-opennewinstance",
         "emmanuelbeziat.vscode-great-icons",
         "github.classroom",
+        "chrisdias.vscode-opennewinstance",
+        "jebbs.plantuml",
         "ms-dotnettools.csharp",
+        "pierre3.csharp-to-plantuml",
         "richardzampieriprog.csharp-snippet-productivity",
-        "rogalmic.vscode-xml-complete"
+        "rogalmic.vscode-xml-complete",
+        "k--kato.docomment"
     ]
 }
