@@ -8,6 +8,8 @@
         "pierre3.csharp-to-plantuml",
         "richardzampieriprog.csharp-snippet-productivity",
         "rogalmic.vscode-xml-complete",
-        "k--kato.docomment"
+        "k--kato.docomment",
+        "redhat.vscode-xml",
+        "Karye.sessionlogger"
     ]
 }
