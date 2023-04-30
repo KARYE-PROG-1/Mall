@@ -12,13 +12,13 @@ Detta är en mall för repos för C#-programmering
 2. Öppna en ny terminal
 
 ```bash
-dotnet new console -o <namn på projektet>
+dotnet new console -o "namn på projektet"
 ```
 
 3. Öppna projektet i VS Code
 
 ```bash
-code <namn på projektet>
+code "namn på projektet"
 ```
 
 4. Koda och testa
