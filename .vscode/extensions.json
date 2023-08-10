@@ -4,12 +4,15 @@
         "github.classroom",
         "chrisdias.vscode-opennewinstance",
         "jebbs.plantuml",
-        "ms-dotnettools.csharp",
+        "ms-dotnettools.csdevkit",
         "pierre3.csharp-to-plantuml",
         "richardzampieriprog.csharp-snippet-productivity",
         "rogalmic.vscode-xml-complete",
         "k--kato.docomment",
         "redhat.vscode-xml",
         "Karye.sessionlogger"
+    ],
+    "unwantedRecommendations": [
+        "ms-dotnettools.vscodeintellicode-csharp"
     ]
 }
