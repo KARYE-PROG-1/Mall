@@ -25,4 +25,7 @@
     "plantuml.render": "PlantUMLServer",
     "plantuml.server": "https://www.plantuml.com/plantuml",
     "sessionlogger.enabled": false,
+    "csharp.debug.console": "externalTerminal",
+    "dotnet.server.useOmnisharp": true,
+    "omnisharp.enableMsBuildLoadProjectsOnDemand": true
 }
