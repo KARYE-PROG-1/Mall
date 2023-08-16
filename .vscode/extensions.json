@@ -10,6 +10,8 @@
         "k--kato.docomment",
         "redhat.vscode-xml",
         "Karye.sessionlogger",
-        "eliostruyf.vscode-hide-comments"
+        "eliostruyf.vscode-hide-comments",
+        "emmanuelbeziat.vscode-great-icons",
+        "richardzampieriprog.csharp-snippet-productivity",
     ]
 }
