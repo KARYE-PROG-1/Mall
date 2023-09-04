@@ -25,12 +25,12 @@ VS Code är ett snabbt och lättanvänt IDE som du kan skapa ditt C#-projekt med
 1. Skapa en ny mapp
 2. Öppna den tomma mappen i VS Code
 3. Öppna en ny terminal (ctrl + ö)
-4. Skapa grundkoden:
+4. Skapa grundkoden med:
 
 ```bash
 dotnet new console
 ```
-4. Koda och testa:
+4. Koda och testa med:
 
 ```bash
 dotnet run
