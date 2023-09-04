@@ -8,17 +8,17 @@ VS Code är ett snabbt och lättanvänt IDE som du kan skapa ditt C#-projekt med
 1. Installera [git](https://git-scm.com/downloads)
 2. Installera [Dotnet 7](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.400-windows-x64-installer)
 
-### Följande tillägg är bra att ha:
+### Installera följande tillägg i VS Code
 
-* C# – Ger Visual Studio Code stöd för C#
-* C# Toolbox of Productivity – Lägger till en del extra användbara genvägar och funktioner, tex för att skapa nya projekt och klasser
-* Open Folder Context Menu - För att enkelt öppna en mapp
-* gitignore – Underlättar arbetet med git och Visual Studio Code. Om du söker efter den, se till att ta den av CodeZombie!
-* VSCode Great Icons – Gör det lättare att känna igen filtyper
-* XML Complete – För att jobba med WPF och Xaml
-* XML - För att jobba med WPF och Xaml
-* GitHub Classroom - För att arbeta med labbar och prov på Github Classroom
-* C# XML Documentation Comments - För att kommentera metoder och klasser
+* [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) – Ger Visual Studio Code stöd för C#
+* [C# Toolbox of Productivity](https://marketplace.visualstudio.com/items?itemName=RichardZampieriprog.csharp-snippet-productivity) – Lägger till en del extra användbara genvägar och funktioner, tex för att skapa nya projekt och klasser
+* [Open Folder Context Menu](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) - För att enkelt öppna en mapp
+* [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) – Underlättar arbetet med git och Visual Studio Code. Om du söker efter den, se till att ta den av CodeZombie!
+* [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) – Gör det lättare att känna igen filtyper
+* [XML Complete](https://marketplace.visualstudio.com/items?itemName=rogalmic.vscode-xml-complete) – För att jobba med WPF och Xaml
+* [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - För att jobba med WPF och Xaml
+* [GitHub Classroom](https://marketplace.visualstudio.com/items?itemName=GitHub.classroom) - För att arbeta med labbar och prov på Github Classroom
+* [C# XML Documentation Comments](https://marketplace.visualstudio.com/items?itemName=k--kato.docomment) - För att kommentera metoder och klasser
 
 ## Skapa C#-projekt
 
