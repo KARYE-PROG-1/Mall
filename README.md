@@ -1,5 +1,5 @@
 # C# i VS Code
-VS Code är ett snabbt och lättanvänt IDE som du kan din C#-projekt med.
+VS Code är ett snabbt och lättanvänt IDE som du kan skapa ditt C#-projekt med.
 
 ## Förberedelser
 
