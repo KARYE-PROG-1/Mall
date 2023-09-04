@@ -1,5 +1,5 @@
 # C# i VS Code
-Programmera i C#-programmering I VS Code
+Programmera i C# I VS Code
 
 ## Instruktioner
 
