@@ -1,4 +1,4 @@
-# C# i VS Code
+# C# i Visual Studio Code
 VS Code är ett snabbt och lättanvänt IDE som du kan skapa ditt C#-projekt med.
 
 ## Förberedelser
@@ -10,10 +10,10 @@ VS Code är ett snabbt och lättanvänt IDE som du kan skapa ditt C#-projekt med
 
 ### Installera följande tillägg i VS Code
 
-* [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) – Ger Visual Studio Code stöd för C#
+* [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) – Ger VS Code stöd för C#
 * [C# Toolbox of Productivity](https://marketplace.visualstudio.com/items?itemName=RichardZampieriprog.csharp-snippet-productivity) – Lägger till en del extra användbara genvägar och funktioner, tex för att skapa nya projekt och klasser
 * [Open Folder Context Menu](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance) - För att enkelt öppna en mapp
-* [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) – Underlättar arbetet med git och Visual Studio Code. Om du söker efter den, se till att ta den av CodeZombie!
+* [gitignore](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) – Underlättar arbetet med git och VS Code. Om du söker efter den, se till att ta den av CodeZombie!
 * [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons) – Gör det lättare att känna igen filtyper
 * [XML Complete](https://marketplace.visualstudio.com/items?itemName=rogalmic.vscode-xml-complete) – För att jobba med WPF och Xaml
 * [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml) - För att jobba med WPF och Xaml
