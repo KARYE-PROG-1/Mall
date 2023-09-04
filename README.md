@@ -1,5 +1,5 @@
-# Mall
-Detta är en mall för repos för C#-programmering
+# C# i VS Code
+Programmera i C#-programmering I VS Code
 
 ## Instruktioner
 
@@ -9,13 +9,14 @@ Detta är en mall för repos för C#-programmering
 ## Skapa C#-projekt
 
 1. Skapa en ny mapp
-2. Öppna den tomma i VS Code
+2. Öppna den tomma mappen i VS Code
 3. Öppna en ny terminal (ctrl + ö)
+4. Skapa grundkoden:
 
 ```bash
 dotnet new console
 ```
-4. Koda och testa
+4. Koda och testa:
 
 ```bash
 dotnet run
