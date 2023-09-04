@@ -3,24 +3,18 @@ Detta är en mall för repos för C#-programmering
 
 ## Instruktioner
 
-1. Forka detta repo
-2. Skapa ett nytt C#-projekt i VS Code
+1. Installera [git](https://git-scm.com/downloads)
+2. Installera [Dotnet 7](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-7.0.400-windows-x64-installer)
 
 ## Skapa C#-projekt
 
-1. Öppna VS Code
-2. Öppna en ny terminal
+1. Skapa en ny mapp
+2. Öppna den tomma i VS Code
+3. Öppna en ny terminal (ctrl + ö)
 
 ```bash
-dotnet new console -o "namn på projektet"
+dotnet new console
 ```
-
-3. Öppna projektet i VS Code
-
-```bash
-code "namn på projektet"
-```
-
 4. Koda och testa
 
 ```bash
