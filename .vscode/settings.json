@@ -7,7 +7,6 @@
         "titleBar.activeForeground": "#FBF9FD"
     },
     "editor.codeLens": false,
-    "explorer.compactFolders": false,
     "editor.multiCursorModifier": "ctrlCmd",
     "files.autoSave": "afterDelay",
     "editor.bracketPairColorization.enabled": true,
@@ -25,5 +24,9 @@
     "sessionlogger.enabled": false,
     "csharp.debug.console": "externalTerminal",
     "dotnet.server.useOmnisharp": true,
-    "omnisharp.enableMsBuildLoadProjectsOnDemand": true
+    "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
+    "csharp.referencesCodeLens.enabled": false,
+    "csharp.debug.console": "externalTerminal",
+    "explorer.compactFolders": false,
+    "explorer.sortOrderLexicographicOptions": "unicode"
 }
