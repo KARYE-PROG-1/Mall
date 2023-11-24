@@ -26,7 +26,10 @@
     "dotnet.server.useOmnisharp": true,
     "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
     "csharp.referencesCodeLens.enabled": false,
-    "csharp.debug.console": "externalTerminal",
     "explorer.compactFolders": false,
-    "explorer.sortOrderLexicographicOptions": "unicode"
+    "explorer.sortOrderLexicographicOptions": "unicode",
+    "markdox.urls": [
+        "https://github.com/krank/csharp-ref.git",
+        "https://gitlab.com/karye/prrprr01-te.git"
+    ],
 }
