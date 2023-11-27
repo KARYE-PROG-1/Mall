@@ -22,4 +22,7 @@
         "https://github.com/krank/csharp-ref.git",
         "https://gitlab.com/karye/prrprr01-te.git"
     ],
+    "workbench.editorAssociations": {
+        "*.md": "vscode.markdown.preview.editor"
+    }
 }
