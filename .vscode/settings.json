@@ -13,7 +13,7 @@
     "editor.guides.bracketPairs": "active",
     "csharp.suppressBuildAssetsNotification": true,
     "git.postCommitCommand": "sync",
-    "sessionlogger.enabled": false,
+    "sessionlogger.enabled": true,
     "csharp.debug.console": "externalTerminal",
     "csharp.referencesCodeLens.enabled": false,
     "explorer.compactFolders": false,
