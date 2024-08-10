@@ -31,8 +31,8 @@
 	"XAML StackPanel": {
 		"prefix": "stackpanel",
 		"body": [
-			"<StackPanel>",
-			"\t$1",
+			"<StackPanel Orientation=\"$1\" Margin=\"$2\">",
+			"\t$3",
 			"</StackPanel>"
 		],
 		"description": "StackPanel element"
