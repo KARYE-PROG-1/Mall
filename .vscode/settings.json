@@ -24,5 +24,8 @@
     ],
     "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor"
-    }
+    },
+    "clock.alignment": "Right",
+    "clock.format": "HH:MM:ss",
+    "markdown.preview.doubleClickToSwitchToEditor": false,
 }
