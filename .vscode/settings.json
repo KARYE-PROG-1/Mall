@@ -26,6 +26,12 @@
         "*.md": "vscode.markdown.preview.editor"
     },
     "clock.alignment": "Right",
-    "clock.format": "HH:MM:ss",
+    "clock.format": "HH:MM",
     "markdown.preview.doubleClickToSwitchToEditor": false,
+    "[xml]": {
+        "editor.defaultFormatter": "redhat.vscode-xml"
+    },
+    "files.associations": {
+        "*.xaml": "xml"
+    },
 }
