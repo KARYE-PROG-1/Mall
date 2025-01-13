@@ -3,9 +3,9 @@ VS Code är ett snabbt och lättanvänt IDE som du kan skapa ditt C#-projekt med
 
 ## Förberedelser
 
-### Installera och ställ in VS Code
+### Installera Dotnet
 
-2. Installera [Dotnet 8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)
+* Installera [Dotnet 8](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)
 
 ### Installera följande tillägg i VS Code
 
